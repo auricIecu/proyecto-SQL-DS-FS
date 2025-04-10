@@ -1,0 +1,26 @@
+id_alumno,Nombre,Email,Promocion,Fecha_comienzo,Campus,Proyecto_HLF,Proyecto_EDA,Proyecto_BBDD,Proyecto_ML,Proyecto_Deployment,Vertical,Modalidad
+99077,Jafet Casals,Jafet_Casals@gmail.com,Septiembre,18/09/2023,Madrid,Apto,No Apto,Apto,Apto,Apto,DS,Presencial
+52652,Jorge Manzanares,Jorge_Manzanares@gmail.com,Septiembre,18/09/2023,Madrid,Apto,No Apto,Apto,Apto,Apto,DS,Online
+66845,Onofre Adadia,Onofre_Adadia@gmail.com,Septiembre,18/09/2023,Madrid,Apto,Apto,Apto,No Apto,Apto,DS,Online
+79783,Merche Prada,Merche_Prada@gmail.com,Septiembre,18/09/2023,Madrid,Apto,No Apto,No Apto,Apto,No Apto,DS,Presencial
+68268,Pilar Abella,Pilar_Abella@gmail.com,Septiembre,18/09/2023,Madrid,Apto,No Apto,Apto,Apto,Apto,DS,Presencial
+86704,Leoncio Tena,Leoncio_Tena@gmail.com,Septiembre,18/09/2023,Madrid,Apto,Apto,Apto,Apto,Apto,DS,Presencial
+98005,Odalys Torrijos,Odalys_Torrijos@gmail.com,Septiembre,18/09/2023,Madrid,No Apto,Apto,Apto,Apto,Apto,DS,Presencial
+70650,Eduardo Caparrós,Eduardo_Caparrós@gmail.com,Septiembre,18/09/2023,Madrid,No Apto,Apto,Apto,Apto,Apto,DS,Online
+45723,Ignacio Goicoechea,Ignacio_Goicoechea@gmail.com,Septiembre,18/09/2023,Madrid,Apto,Apto,Apto,No Apto,Apto,DS,Online
+83978,Clementina Santos,Clementina_Santos@gmail.com,Septiembre,18/09/2023,Madrid,Apto,No Apto,Apto,Apto,Apto,DS,Presencial
+73203,Daniela Falcó,Daniela_Falcó@gmail.com,Septiembre,18/09/2023,Madrid,Apto,Apto,Apto,Apto,Apto,DS,Presencial
+50737,Abraham Vélez,Abraham_Vélez@gmail.com,Septiembre,18/09/2023,Madrid,Apto,No Apto,No Apto,Apto,Apto,DS,Online
+33813,Maximiliano Menéndez,Maximiliano_Menéndez@gmail.com,Septiembre,18/09/2023,Madrid,Apto,No Apto,Apto,Apto,Apto,DS,Online
+86017,Anita Heredia,Anita_Heredia@gmail.com,Septiembre,18/09/2023,Madrid,Apto,Apto,Apto,Apto,Apto,DS,Online
+83744,Eli Casas,Eli_Casas@gmail.com,Septiembre,18/09/2023,Madrid,Apto,Apto,Apto,Apto,Apto,DS,Online
+82843,Guillermo Borrego,Guillermo_Borrego@gmail.com,Febrero,12/02/2024,Madrid,Apto,No Apto,No Apto,Apto,No Apto,DS,Presencial
+25344,Sergio Aguirre,Sergio_Aguirre@gmail.com,Febrero,12/02/2024,Madrid,Apto,No Apto,Apto,Apto,No Apto,DS,Presencial
+17222,Carlito Carrión,Carlito_Carrión@gmail.com,Febrero,12/02/2024,Madrid,Apto,No Apto,Apto,Apto,Apto,DS,Presencial
+14526,Haydée Figueroa,Haydée_Figueroa@gmail.com,Febrero,12/02/2024,Madrid,Apto,Apto,Apto,Apto,Apto,DS,Online
+21965,Chita Mancebo,Chita_Mancebo@gmail.com,Febrero,12/02/2024,Madrid,No Apto,Apto,No Apto,Apto,Apto,DS,Presencial
+37821,Joaquina Asensio,Joaquina_Asensio@gmail.com,Febrero,12/02/2024,Madrid,No Apto,No Apto,Apto,Apto,Apto,DS,Online
+59615,Cristian Sarabia,Cristian_Sarabia@gmail.com,Febrero,12/02/2024,Madrid,Apto,Apto,No Apto,Apto,Apto,DS,Online
+72262,Isabel Ibáñez,Isabel_Ibáñez@gmail.com,Febrero,12/02/2024,Madrid,No Apto,Apto,No Apto,Apto,Apto,DS,Presencial
+83663,Desiderio Jordá,Desiderio_Jordá@gmail.com,Febrero,12/02/2024,Madrid,No Apto,Apto,No Apto,No Apto,Apto,DS,Online
+80183,Rosalina Llanos,Rosalina_Llanos@gmail.com,Febrero,12/02/2024,Madrid,Apto,Apto,Apto,Apto,Apto,DS,Presencial

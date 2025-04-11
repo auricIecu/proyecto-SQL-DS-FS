@@ -3,20 +3,17 @@
 
 
 --QUERY1 : Observar la distribución general
-SELECT 
-count(t3.id_alumno) as Nalumnos,
-count(t4.id_profesor) as Nprofesores,
-t1.ciudad,
-t5.curso,
-t6.modo
-from campus t1
-inner join grupo t2 on t1.id_campus = t2.id_vertical
-inner join alumnos t3 on t2.id_grupo = t3.id_grupo
-inner join profesores t4 on t4.id_grupo = t2.id_grupo
-inner join vertical t5 on t5.id_vertical = t2.id_vertical
-inner join modalidad t6 on t6.id_modalidad = t2.id_modalidad
-group by 3,4,5
-order by 1 desc;
+SELECT
+count(id_alumno)as nalumnos,
+t3.ciudad as ciudad,
+t5.modo as modalidad,
+t4.curso
+from alumnos t1
+inner join grupo t2 on t2.id_grupo = t1.id_grupo
+inner join campus t3 on t2.id_campus = t3.id_campus
+inner join vertical t4 on t4.id_vertical = t2.id_vertical
+inner join modalidad t5 on t5.id_modalidad = t2.id_modalidad
+group by 2,3,4;
 
 --QUERY 2: Aprobados por profesor
 
